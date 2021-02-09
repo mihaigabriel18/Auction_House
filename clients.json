@@ -1,0 +1,74 @@
+[
+  {
+    "physical": [
+      {
+        "id": "88992",
+        "name": "Calus",
+        "address": "2990  White Avenue",
+        "birthday": "05/21/87"
+      },
+      {
+        "id": "95537",
+        "name": "Morgeth",
+        "address": "4014  Picnicking Street",
+        "birthday": "11/14/00"
+      },
+      {
+        "id": "89843",
+        "name": "Mara Sov",
+        "address": "4629  Hannah Street",
+        "birthday": "04/15/84"
+      },
+      {
+        "id": "45305",
+        "name": "Cayde",
+        "address": "4172  Flint Street",
+        "birthday": "03/02/93"
+      },
+      {
+        "id": "17697",
+        "name": "Petra Venj",
+        "address": "3072  Thorn Street",
+        "birthday": "08/08/81"
+      },
+      {
+        "id": "94934",
+        "name": "Clovis Bray",
+        "address": "3080  Thorn Street",
+        "birthday": "08/08/81"
+      }
+    ]
+  },
+  {
+    "juridical": [
+      {
+        "id": "46406",
+        "name": "Emag",
+        "address": "2214  Meadows Drive",
+        "companyType": "SRL",
+        "socialCapital": "2000"
+      },
+      {
+        "id": "42214",
+        "name": "Walmart",
+        "address": "230  Black Oak Hollow Road",
+        "companyType": "SA",
+        "socialCapital": "41234"
+      },
+      {
+        "id": "54697",
+        "name": "Wholefoods",
+        "address": "3154  Hanover Street",
+        "companyType": "SA",
+        "socialCapital": "64353"
+      },
+      {
+        "id": "38042",
+        "name": "Amazon",
+        "address": "1302  Hannah Street",
+        "companyType": "SRL",
+        "socialCapital": "643523"
+      }
+    ]
+  }
+]

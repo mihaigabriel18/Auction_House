@@ -1,0 +1,170 @@
+[
+  {
+    "painting": [
+      {
+        "id": "123456",
+        "name": "Mona Lisa",
+        "minimum_price": "20000",
+        "year": "1967"
+      },
+      {
+        "id": "643245",
+        "name": "Cypresses",
+        "minimum_price": "2500",
+        "year": "1956"
+      },
+      {
+        "id": "263456",
+        "name": "Triumph of Death",
+        "minimum_price": "2000",
+        "year": "1875"
+      },
+      {
+        "id": "623456",
+        "name": "La Crucifixion",
+        "minimum_price": "1500",
+        "year": "1789"
+      },
+      {
+        "id": "642564",
+        "name": "American Gothic",
+        "minimum_price": "4500",
+        "year": "1567"
+      },
+      {
+        "id": "2143453",
+        "name": "Ad Marginen",
+        "minimum_price": "3780",
+        "year": "1789"
+      },
+      {
+        "id": "7456423",
+        "name": "Condition Humain",
+        "minimum_price": "3450",
+        "year": "1935"
+      },
+      {
+        "id": "7546425",
+        "name": "The Kiss",
+        "minimum_price": "7430",
+        "year": "1873"
+      }
+    ]
+  },
+  {
+    "jewelery": [
+      {
+        "id": "6245624",
+        "name": "Diamond ring",
+        "minimum_price": "8000",
+        "year": "2000"
+      },
+      {
+        "id": "8965265",
+        "name": "Golden ring",
+        "minimum_price": "4000",
+        "year": "2008"
+      },
+      {
+        "id": "469853",
+        "name": "Silver Ring",
+        "minimum_price": "2000",
+        "year": "2010"
+      },
+      {
+        "id": "741205",
+        "name": "Ruby Necklace",
+        "minimum_price": "5000",
+        "year": "2005"
+      },
+      {
+        "id": "698752",
+        "name": "Sapphire necklace",
+        "minimum_price": "3000",
+        "year": "2018"
+      },
+      {
+        "id": "6710365",
+        "name": "VVS Chain",
+        "minimum_price": "10000",
+        "year": "2020"
+      },
+      {
+        "id": "980142",
+        "name": "Wedding Ring",
+        "minimum_price": "9000",
+        "year": "2021"
+      },
+      {
+        "id": "763240",
+        "name": "Diamond earrings",
+        "minimum_price": "8700",
+        "year": "2004"
+      },
+      {
+        "id": "987138",
+        "name": "Golden Bracelet",
+        "minimum_price": "3000",
+        "year": "2011"
+      },
+      {
+        "id": "160863",
+        "name": "Patek watch",
+        "minimum_price": "12000",
+        "year": "2019"
+      },
+      {
+        "id": "997701",
+        "name": "AP Watch",
+        "minimum_price": "15000",
+        "year": "2020"
+      }
+    ]
+  },
+  {
+    "furniture": [
+      {
+        "id": "166510",
+        "name": "Sofa",
+        "minimum_price": "3000",
+        "year": "2013"
+      },
+      {
+        "id": "92774",
+        "name": "Couch",
+        "minimum_price": "3500",
+        "year": "2020"
+      },
+      {
+        "id": "786458",
+        "name": "Wardrobe",
+        "minimum_price": "3300",
+        "year": "2016"
+      },
+      {
+        "id": "152627",
+        "name": "Bed",
+        "minimum_price": "4000",
+        "year": "2006"
+      },
+      {
+        "id": "270276",
+        "name": "Chair",
+        "minimum_price": "500",
+        "year": "2017"
+      },
+      {
+        "id": "468700",
+        "name": "Desk",
+        "minimum_price": "1300",
+        "year": "2007"
+      },
+      {
+        "id": "958291",
+        "name": "Table",
+        "minimum_price": "1000",
+        "year": "2018"
+      }
+    ]
+  }
+]
