@@ -5,6 +5,7 @@ import auction.institution.employee.Administrator;
 import auction.institution.employee.broker.Broker;
 import auction.storage.NoSuchProductException;
 import auction.storage.Product;
+import auction.storage.furniture.Furniture;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;

@@ -19,9 +19,6 @@ it will update everytime the administrator adds a new product (using the produce
 broker deletes a product (also using the producer-consumer problem) when a product is sold and needs to be removed from
 that list.
 
-([[Test1]]+[[Test2]]+[[Test3]]+[[Test4]]+[[Test5]]+[[Test6]]+[[Test7]]+[[Test8]]+[[Test9]]+[[Test10]]+[[Test11]]+
-[[Test12]])/12+[[Lab]]+([[Partial]]+5)/2+[[Tema1]]*1.5+[[Tema2]]*1.5+[[Bonus]]+[[ACM]]+[[Proiect]]*2+([[Examen]]+10)/3,
-
 The auction frame will have 3 separate components: the bidding log, the clients and brokers list, and a button
 which will start the actual bidding process. The bidding log will display messages for actions like: a broker asks
 a client to place a bid, and he receives the bid from that person, or when the auction has ended and one of 2 things
